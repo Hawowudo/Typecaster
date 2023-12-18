@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4f9f5bb927eee740b61503ddeb7ba5d, type: 3}
+  m_Name: HealthStringLIst
+  m_EditorClassIdentifier: 
+  MeatStrings:
+  - Horse
+  - Boar
+  - Cow
+  - Butcher
+  - Meat
+  - Salmon
+  - Whale
+  - Blubber
+  - Marrow
+  - Poultry
+  - Hide
+  - Leather
+  - Bacon
+  - Chicken
+  - Nuggets
+  - FIllet
+  - Pork
+  - Cat
+  - Brown
+  - Meat
+  - Chicken
+  - DInosaur
+  - Beer
+  VegetableStrings:
+  - Forest
+  - Green
+  - Fruit
+  - GreenHouse
+  - Stem
+  - Photosynthesis
+  - Leaves
+  - SPring
+  - Fall
+  - Summer
+  - Farm
+  - Harvest
+  - Strawhat
+  - Jungle
+  - Plants
+  - Nature
+  - Fiber
+  - Natural
+  - Juice
+  GrainsStrings:
+  - Bread
+  - Pasta
+  - Dough
+  - Baker
+  - Croissant
+  - Rice
+  - Grains
+  - WHeat
+  - Hemp
+  - Sandwich
+  - Yeast
+  - Basket
+  - Breakfast
+  - Cake
+  - Raviolli
+  - Italy
+  - France
+  - Pandesal
+  - PIzza
+  - Crust
+  SugarStrings:
+  - Cake
+  - RedRibbon
+  - SugarCane
+  - Fondue
+  - Cheesecake
+  - sweet
+  - candycane
+  - Pudding
+  - COlorful
+  - Cookies
+  - Wonder
+  - mikmik
+  - Syrup
+  - Bubblegum
+  - Pancakes
+  SugarSprites:
+  - {fileID: 21300000, guid: 026cc55cd3ea25745804d10b0c12e5f7, type: 3}
+  - {fileID: 21300000, guid: 44bf81242b0124f42bf23d99fbe63e84, type: 3}
+  - {fileID: 21300000, guid: f9d7106fa6cb97d45899b55bc503d41c, type: 3}
+  - {fileID: 21300000, guid: 04bea41e4738f454cbcf0147160ec447, type: 3}
+  - {fileID: 21300000, guid: a15f159e53d06c744a3cd922858123d8, type: 3}
+  - {fileID: 21300000, guid: a4f1a394c64743c4e87417fb40f09e27, type: 3}
+  - {fileID: 21300000, guid: 17b72b19c48a8744f866fd29e116a168, type: 3}
+  GrainsSprites:
+  - {fileID: 21300000, guid: f6c780a81ef3c614cbb7bc686684b211, type: 3}
+  - {fileID: 21300000, guid: de605303fd36316448e5d8530be113f3, type: 3}
+  - {fileID: 21300000, guid: 82399244826b1d247b27e2c159d3dca5, type: 3}
+  - {fileID: 21300000, guid: 32996915496f23b43a24f09867e25fe1, type: 3}
+  - {fileID: 21300000, guid: d919ba5f2c609b843bb0d30c9f83d5f9, type: 3}
+  - {fileID: 21300000, guid: 0066abab7ce75dc43b059f9ec4d4f32d, type: 3}
+  - {fileID: 21300000, guid: 5a00e203fd7707c42a0b5a834e89b52d, type: 3}
+  MeatSprites:
+  - {fileID: 21300000, guid: bf6d0e0a5f615ea44a5c60813fc2fdf3, type: 3}
+  - {fileID: 21300000, guid: 9281d750653ac1f4c919fe7e4f9c87a2, type: 3}
+  - {fileID: 21300000, guid: 3848226f718844a45bb26ea007ae610e, type: 3}
+  - {fileID: 21300000, guid: dadc244e9c1486c46aec7738a0247098, type: 3}
+  - {fileID: 21300000, guid: d2484c43eff53df458d06737d1beea29, type: 3}
+  - {fileID: 21300000, guid: 2c585e6c5cf24804ebf2832e2351e9dd, type: 3}
+  - {fileID: 21300000, guid: b944bc787ea71ba49b668570a6f09921, type: 3}
+  VegetableSprites:
+  - {fileID: 21300000, guid: a7262a6173acdaa4d9eff0aca103b680, type: 3}
+  - {fileID: 21300000, guid: 9c752ea7eac85d84ca16263150975961, type: 3}
+  - {fileID: 21300000, guid: ec1ace86fe113304280304d6c3472cc1, type: 3}
+  - {fileID: 21300000, guid: 7b2eefa83536c4d479aa181330943520, type: 3}
+  - {fileID: 21300000, guid: 48f6840fdc91acf4aa2f1745935cb59f, type: 3}
+  - {fileID: 21300000, guid: f80076ce708ff7a448050dfb052c6052, type: 3}
